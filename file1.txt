@@ -1,1 +1,1 @@
-Testing for Maven project
+Testing to build Maven project
