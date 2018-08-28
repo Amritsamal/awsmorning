@@ -1,2 +1,2 @@
-Testing to build Maven project
+Testing to build Maven project by commiting to github
 
