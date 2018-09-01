@@ -1,1 +1,1 @@
-Testing for Maven GIT SCM
+Testing for Maven but selecting GIT SCM
